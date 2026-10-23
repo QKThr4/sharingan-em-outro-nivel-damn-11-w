@@ -1,0 +1,11 @@
+{
+  "sharingan_on": {"sounds": [{"name": "sharingan:sharingan_on"}]},
+  "sharingan_off": {"sounds": [{"name": "sharingan:sharingan_off"}]},
+  "mk_sasuke": {"sounds": [{"name": "sharingan:mk_sasuke"}]},
+  "mk_obito_left": {"sounds": [{"name": "sharingan:mk_obito_left"}]},
+  "mk_obito_right": {"sounds": [{"name": "sharingan:mk_obito_right"}]},
+  "mk_itachi_obito_both": {"sounds": [{"name": "sharingan:mk_itachi_obito_both"}]},
+  "mk_madara": {"sounds": [{"name": "sharingan:mk_madara"}]},
+  "mk_izuna": {"sounds": [{"name": "sharingan:mk_izuna"}]},
+  "eternal_first": {"sounds": [{"name": "sharingan:eternal_first"}]}
+}

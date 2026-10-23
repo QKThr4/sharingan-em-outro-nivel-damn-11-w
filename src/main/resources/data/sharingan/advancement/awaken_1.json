@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "sharingan:sharingan_1"
+    },
+    "title": {
+      "translate": "advancements.sharingan.awaken_1.title"
+    },
+    "description": {
+      "translate": "advancements.sharingan.awaken_1.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "done"
+    ]
+  ],
+  "parent": "sharingan:uchiha"
+}

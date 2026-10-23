@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "  I",
+  " I ",
+  "B  "
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "B": {
+   "item": "minecraft:blaze_rod"
+  }
+ },
+ "result": {
+  "id": "sharingan:espada_sasuke",
+  "count": 1
+ }
+}

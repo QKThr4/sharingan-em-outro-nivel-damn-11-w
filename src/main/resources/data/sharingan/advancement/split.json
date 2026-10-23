@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "sharingan:eye_obito"
+    },
+    "title": {
+      "translate": "advancements.sharingan.split.title"
+    },
+    "description": {
+      "translate": "advancements.sharingan.split.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "done"
+    ]
+  ],
+  "parent": "sharingan:awaken_1"
+}

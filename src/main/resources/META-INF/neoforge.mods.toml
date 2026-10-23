@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="sharingan"
+version="1.4.4"
+displayName="The Red Eye | Sharingan"
+credits="Sasuke Sword 3D model by Kaotiko (CC-BY-4.0): https://sketchfab.com/3d-models/sasuke-sword-a92bb7a99b344d09a8f6ef5047f43569 - Madara weapon 3D model by El_Director (CC-BY-4.0): https://sketchfab.com/3d-models/madara-weapon-6425d968bb8d4d98a2c63590a706953b"
+description='''Adiciona somente o Sharingan (1, 2 e 3 tomoe), o Mangekyou Sharingan (Itachi, Sasuke, Obito, Shisui) e o Mangekyou Eterno.'''
+
+[[dependencies.sharingan]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sharingan]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

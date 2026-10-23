@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RNF",
+    "NLN",
+    "ANT"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "minecraft:blaze_powder"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "id": "sharingan:amostra_hashirama",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "sharingan:sharingan_2"
+    },
+    "title": {
+      "translate": "advancements.sharingan.tomoe_2.title"
+    },
+    "description": {
+      "translate": "advancements.sharingan.tomoe_2.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "done"
+    ]
+  ],
+  "parent": "sharingan:awaken_1"
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "sharingan:eye_shisui"
+    },
+    "title": {
+      "translate": "advancements.sharingan.all_eyes.title"
+    },
+    "description": {
+      "translate": "advancements.sharingan.all_eyes.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "done"
+    ]
+  ],
+  "parent": "sharingan:mangekyou"
+}
